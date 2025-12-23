@@ -3,6 +3,8 @@
 <img width="693" height="638" alt="image" src="https://github.com/user-attachments/assets/46c7d65c-7237-4cf7-a59b-3fdb85bd0f4e" />
 <img width="1098" height="776" alt="image" src="https://github.com/user-attachments/assets/81cf8b34-64b7-4e3a-8519-b3d24dcd8b1b" />
 
+Download: https://github.com/opalito/FlexRadioSpotBroadcaster/releases/download/master/FlexRadioSpotBroadcaster-0.1b.zip
+
 [English](#english) | [Español](#español)
 
 
